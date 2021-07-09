@@ -53,7 +53,7 @@ python3 -m pip install flask
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/qijie44/flaskcontroller.git
+   git clone https://github.com/makingandtinkering/flaskcontroller.git
    ```
 2. Modify the template for your project
 3. Run index_page.py script and direct your browser to Rpi's_IP_ADDRESS:5000 to see the page
